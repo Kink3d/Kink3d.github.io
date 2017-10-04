@@ -4,6 +4,7 @@
 ### Outline
 
 ![alt text](https://github.com/Kink3d/Kink3d.github.io/blob/master/_posts/Images-2017-10-04-Physically-Based-Toon-Shading-In-Unity/image10.png?raw=true "The final demo scene")
+
 *The final demo scene*
 
 In this blog I will outline and discuss the different techniques used to create a more physically based approximation for toon shading in Unity. In a later blog entry I will detail techniques for calculating and rendering water that is appropriate to this rendering style. 
