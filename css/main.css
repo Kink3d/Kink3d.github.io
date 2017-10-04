@@ -20,22 +20,22 @@ a:hover {
     text-decoration: none;
 }
 h1 {
-    font-size: 1.5em;
+    font-size: 3em;
     font-family:'Helvetica', 'Helvetica', 'Helvetica';
 }
 p {
-    font-size: .75em;
+    font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .4em;
+    font-size: .8em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: .75em;
+    font-size: 1.5em;
 }
 
 ul.posts li {
